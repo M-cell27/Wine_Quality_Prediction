@@ -18,7 +18,7 @@ Predicting wine quality empowers winemakers to make informed decisions during th
 
 **Project Structure:**
 
-- `wineQ.csv/`: This directory contains the dataset used for training the model. The dataset should be named `wine_quality.csv`.
+- `wine_quality.csv/`: This directory contains the dataset used for training the model. 
 
 - `wine_quality.ipynb/`: This directory contains Jupyter notebooks used for data exploration, preprocessing, model training, evaluation, and interpretation. The notebooks are organized in a step-by-step manner to follow the project's workflow.
 
